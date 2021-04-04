@@ -1,0 +1,25 @@
+{
+    "name": "movie-backend",
+    "version": "1.0.0",
+    "description": "Bongani Maila - technical assessment",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/BonganiMaila/Bongani-maila-technical-assessment"
+    },
+    "keywords": [
+        "rest",
+        "apis",
+        "node",
+        "express"
+    ],
+    "author": "Bongani Maila",
+    "bugs": {
+        "url": "https://github.com/BonganiMaila/Bongani-maila-technical-assessment/issues"
+    },
+    "homepage": "https://github.com/BonganiMaila/Bongani-maila-technical-assessment#readme",
+    "dependencies": {}
+}
